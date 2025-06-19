@@ -17,3 +17,6 @@ Proyek ini menganalisis data kualitas udara dari stasiun Wanshouxigong (2013-201
    streamlit run dashboard.py
    ```
    * Dashboard akan terbuka di browser default Anda di alamat `http://localhost:8501`.
+
+Tampilan akan seperti ini: 
+https://submission-air-quality.streamlit.app/
